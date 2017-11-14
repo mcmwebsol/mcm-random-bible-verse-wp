@@ -2,7 +2,7 @@
 Contributors: mcmwebsol
 Tags: plugin, file
 Requires at least: 4.8
-Tested up to: 4.9
+Tested up to: 4.8
 Requires PHP: 5.6
 Stable tag: 1.0
 License: GPLv2
@@ -30,6 +30,9 @@ Thanks to apostolic-churches.net for formatting the KJV Bible in a format we cou
 
 
 == Changelog ==
+
+= 1.1 =
+* Support for shortcode in widgets (using WordPress >= 4.9)
 
 = 1.0 =
 * Initial version
